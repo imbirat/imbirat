@@ -26,7 +26,7 @@
 ```typescript
 const birat = {
   name:        "Birat Basnet",
-  role:        "Full-Stack Engineer & SaaS Builder",
+  role:        "Full-Stack Engineer & Discord-bot Builder",
   location:    "🌏 Building from the internet",
   flagship:    "Axion — AI-powered chatbot & Discord bot ⚡",
   passion:     ["AI Products", "Discord Bots", "Developer Tools"],
